@@ -1,2 +1,2 @@
-# alexosorio87.github.io
+# alexsosorio87.github.io
 GitHub Pages
